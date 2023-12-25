@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documents\coding\shop game\bin\Debug\net7.0\shop game.exe
+C:\Users\david\OneDrive\Documents\coding\shop game\bin\Debug\net7.0\shop game.deps.json
+C:\Users\david\OneDrive\Documents\coding\shop game\bin\Debug\net7.0\shop game.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\coding\shop game\bin\Debug\net7.0\shop game.dll
+C:\Users\david\OneDrive\Documents\coding\shop game\bin\Debug\net7.0\shop game.pdb
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.dll
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\refint\shop game.dll
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.pdb
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\shop game.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\coding\shop game\obj\Debug\net7.0\ref\shop game.dll
